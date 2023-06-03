@@ -8,7 +8,7 @@
   <header>
     <h1>My Website</h1>
     <nav>
-      <a href="#">Home</a>
+      <a href="https://github.com/KrishiPatel279/Krishipatel279.github.io/blob/main/index.html">Home</a>
       <a href="https://github.com/KrishiPatel279/Krishipatel279.github.io/blob/main/index.html">About</a>
     </nav>
   </header>

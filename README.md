@@ -9,7 +9,7 @@
     <h1>My Website</h1>
     <nav>
       <a href="#">Home</a>
-      <a href="https://github.com/KrishiPatel279/Krishipatel279.github.io/blob/main/ABOUT.md">About</a>
+      <a href="/index.html">About</a>
     </nav>
   </header>
   <main>
